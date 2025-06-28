@@ -1,8 +1,22 @@
+<?php
+$styles = json_decode(file_get_contents('../usrsave/styles.json'), true);
+$bgcol = $styles["bgcol"];
+$txtcol = $styles["txtcol"];
+?>
 <!DOCTYPE html>
 <html>
     <head>
         <link rel="icon" href="../local/favicon.ico">
         <title>Hex babel - CastInfo</title>
+        <style>
+            body {
+                background-color: <?=$bgcol?>;
+                color: <?=$txtcol?>
+            }
+            a {
+                color: <?=$txtcol?>;
+            }
+        </style>
     </head>
     <body>
 <?php
