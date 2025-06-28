@@ -1,6 +1,8 @@
 CastInfo is made in PHP.
 <br>
-CastInfo can make, delete, and change stuff/info in or out of an array.
+CastInfo can make, delete, and change an array.
+<br>
+CastInfo also has this usrsave folder for saving stuff (prefs or arrays).
 <br>
 CastInfo can generate random hex codes of any size you desire (kinda like [babel](https://libraryofbabel.info)).
 <br>
