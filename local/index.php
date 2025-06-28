@@ -2,6 +2,7 @@
 echo '<!DOCTYPE html>
 <html>
 <head>
+<link rel="icon" href="../local/favicon.ico">
 <title>Mainpage of CastInfo</title>
 </head>
 <body>

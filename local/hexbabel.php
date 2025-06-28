@@ -1,4 +1,10 @@
-<title>Hex babel - CastInfo</title>
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="icon" href="../local/favicon.ico">
+        <title>Hex babel - CastInfo</title>
+    </head>
+    <body>
 <?php
 $xarray = $_POST['xarray'];
 $yarray = $_POST['yarray'];
@@ -32,3 +38,5 @@ if (is_null($xarray) || is_null($yarray)) {
     <button onclick="window.open(\'../local/hexbabel.php\', \'_top\');">Reload Hex babel</button>
     <button onclick="window.open(\'../local/index.php\', \'_top\');">Exit Hex babel</button>';
 }
+?>
+</body>
