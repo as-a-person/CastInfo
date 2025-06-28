@@ -39,4 +39,5 @@ if (is_null($xarray) || is_null($yarray)) {
     <button onclick="window.open(\'../local/index.php\', \'_top\');">Exit Hex babel</button>';
 }
 ?>
-</body>
+    </body>
+</html>
