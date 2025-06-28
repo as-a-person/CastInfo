@@ -1,3 +1,4 @@
+<title>Hex babel - CastInfo</title>
 <?php
 $xarray = $_POST['xarray'];
 $yarray = $_POST['yarray'];
