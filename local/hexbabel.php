@@ -28,5 +28,6 @@ if (is_null($xarray) || is_null($yarray)) {
         echo '</tr>';
     }
     echo '</table>
-    <button onclick="window.open(\'../local/index.php\', \'_top\');">Exit babel</button>';
+    <button onclick="window.open(\'../local/hexbabel.php\', \'_top\');">Reload Hex babel</button>
+    <button onclick="window.open(\'../local/index.php\', \'_top\');">Exit Hex babel</button>';
 }
