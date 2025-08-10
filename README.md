@@ -9,3 +9,6 @@ CastInfo can generate random hex codes of any size you desire (kinda like [babel
 CastInfo has to run locally.
 <br>
 By the way, this is kinda like a joke project. And it's not fully developed.
+<br>
+<br>
+To contribute you can make a pull request or you can add an idea in issues
